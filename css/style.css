@@ -1,5 +1,27 @@
 @charset "UTF-8";
-
-body {
-  text-align: center;
+body{
+  margin-right:0px;
+  
 }
+.container{
+  width:100%;
+  margin:0px;
+  
+
+}
+#head,#foot{
+  width:100%;
+  height:75px;
+  background-color:#A8A48E;
+  padding:10px;
+  margin:0px;
+
+}
+#me{
+  width:20%;
+  height:40%;
+}
+
+nav {
+  float:right;
+  }
