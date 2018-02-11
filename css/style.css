@@ -6,6 +6,7 @@ body{
 .container{
   width:100%;
   margin:0px;
+
   
 
 }
@@ -15,6 +16,17 @@ body{
   background-color:#A8A48E;
   padding:10px;
   margin:0px;
+
+}
+.jumbotron {
+text-align:center;
+
+}
+.row{
+  margin:0px;
+  margin-left:0px;
+}
+#projects {
 
 }
 #me{
