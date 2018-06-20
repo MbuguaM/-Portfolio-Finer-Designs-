@@ -1,14 +1,12 @@
 @charset "UTF-8";
 body{
   margin-right:0px;
-  
+  background-image:url('../Images/background4.jpg')
 }
 .container{
   width:100%;
   margin:0px;
-
-  
-
+  opacity:0.75;
 }
 #head,#foot{
   width:100%;
@@ -16,10 +14,13 @@ body{
   background-color:#A8A48E;
   padding:10px;
   margin:0px;
-
+  opacity:0.75;
 }
+
 .jumbotron {
 text-align:center;
+opacity:0.75;
+margin-top:2%;
 
 }
 .row{
